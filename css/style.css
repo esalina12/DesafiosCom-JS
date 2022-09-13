@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #37DDEA;
+}
+
+h1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+div{
+    background-color: #EA3783;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+div p {
+    text-align: center;
+}
